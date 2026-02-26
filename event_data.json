@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-02-24",
+  "lastUpdate": "2026-02-26",
   "count": 286,
-  "shinyCount": 275,
+  "shinyCount": 286,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -41,8 +41,8 @@
       "name": "Venusaur",
       "form": "Clone",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/ec/Venusaur_clone.png/revision/latest/scale-to-width-down/98?cb=20240213115029",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+      "hasShiny": true
     },
     {
       "dexNum": 3,
@@ -89,8 +89,8 @@
       "name": "Charizard",
       "form": "Clone",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d3/Charizard_clone.png/revision/latest/scale-to-width-down/98?cb=20240213114955",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+      "hasShiny": true
     },
     {
       "dexNum": 6,
@@ -161,8 +161,8 @@
       "name": "Blastoise",
       "form": "Clone",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/22/Blastoise_clone.png/revision/latest/scale-to-width-down/98?cb=20240213115110",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+      "hasShiny": true
     },
     {
       "dexNum": 9,
@@ -209,8 +209,8 @@
       "name": "Pikachu",
       "form": "Clone",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e2/Pikachu_clone.png/revision/latest/scale-to-width-down/98?cb=20240213115051",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/96/Pikachu_clone_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213115043",
+      "hasShiny": true
     },
     {
       "dexNum": 25,
@@ -465,8 +465,8 @@
       "name": "Pikachu",
       "form": "Ph.D.",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/16/Pikachu_female_phd.png/revision/latest/scale-to-width-down/98?cb=20230810030919",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6b/Pikachu_female_phd_shiny.png/revision/latest/scale-to-width-down/98?cb=20230810031008",
+      "hasShiny": true
     },
     {
       "dexNum": 25,
@@ -505,8 +505,8 @@
       "name": "Pikachu",
       "form": "Detective hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/24/Pikachu_detective.png/revision/latest/scale-to-width-down/98?cb=20240213143235",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/10/Pikachu_detective_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213143244",
+      "hasShiny": true
     },
     {
       "dexNum": 25,
@@ -945,8 +945,8 @@
       "name": "Raichu",
       "form": "Detective hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d5/Raichu_detective.png/revision/latest/scale-to-width-down/98?cb=20240213143413",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/aa/Raichu_detective_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213143420",
+      "hasShiny": true
     },
     {
       "dexNum": 26,
@@ -1433,8 +1433,8 @@
       "name": "Mewtwo",
       "form": "Armored",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4c/Mewtwo_armored.png/revision/latest/scale-to-width-down/98?cb=20240213133626",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/2e/Mewtwo_armored_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133615",
+      "hasShiny": true
     },
     {
       "dexNum": 163,
@@ -1729,8 +1729,8 @@
       "name": "Lugia",
       "form": "2017 Go Fest",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a7/Lugia.png/revision/latest/scale-to-width-down/98?cb=20240212211405",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d3/Lugia_shiny.png/revision/latest/scale-to-width-down/98?cb=20240212211349",
+      "hasShiny": true
     },
     {
       "dexNum": 263,
@@ -1761,8 +1761,8 @@
       "name": "Gardevoir",
       "form": "Meloetta hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b7/Gardevoir_meloetta.png/revision/latest/scale-to-width-down/98?cb=20240213133521",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/41/Gardevoir_meloetta_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133515",
+      "hasShiny": true
     },
     {
       "dexNum": 287,
@@ -1801,8 +1801,8 @@
       "name": "Flygon",
       "form": "Meloetta hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/20/Flygon_meloetta.png/revision/latest/scale-to-width-down/98?cb=20240213133509",
-      "shinyImageUrl": null,
-      "hasShiny": false
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/97/Flygon_meloetta_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133503",
+      "hasShiny": true
     },
     {
       "dexNum": 355,

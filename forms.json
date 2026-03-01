@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-02-26",
+  "lastUpdate": "2026-03-01",
   "groups": [
     {
       "group": "Alolan",
@@ -380,7 +380,7 @@
         },
         {
           "dexNum": 83,
-          "name": "Farfetch&#39;d",
+          "name": "Farfetch'd",
           "form": "Kantonian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b5/Farfetch%27d.png/revision/latest/scale-to-width-down/98?cb=20240212195328",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/8f/Farfetch%27d_shiny.png/revision/latest/scale-to-width-down/98?cb=20240212195319",
@@ -388,7 +388,7 @@
         },
         {
           "dexNum": 83,
-          "name": "Farfetch&#39;d",
+          "name": "Farfetch'd",
           "form": "Galarian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e8/Farfetch%27d_galarian.png/revision/latest/scale-to-width-down/98?cb=20240213015819",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b5/Farfetch%27d_galarian_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213015809",
@@ -412,7 +412,7 @@
         },
         {
           "dexNum": 122,
-          "name": "Mr._Mime",
+          "name": "Mr. Mime",
           "form": "Kantonian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4f/Mr._Mime.png/revision/latest/scale-to-width-down/98?cb=20240212214449",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/7d/Mr._Mime_shiny.png/revision/latest/scale-to-width-down/98?cb=20240212214439",
@@ -420,7 +420,7 @@
         },
         {
           "dexNum": 122,
-          "name": "Mr._Mime",
+          "name": "Mr. Mime",
           "form": "Galarian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b2/Mr._Mime_galarian.png/revision/latest/scale-to-width-down/98?cb=20240213020217",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e6/Mr._Mime_galarian_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213020207",
@@ -693,7 +693,7 @@
           "form": "Johtonian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/51/Typhlosion.png/revision/latest/scale-to-width-down/98?cb=20240212172103",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e1/Typhlosion_shiny.png/revision/latest/scale-to-width-down/98?cb=20240212172053",
-          "releaseDate": "2026-03-06"
+          "releaseDate": "2026-03-01"
         },
         {
           "dexNum": 157,
@@ -701,7 +701,7 @@
           "form": "Hisuian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/5f/Typhlosion_hisuian.png/revision/latest/scale-to-width-down/98?cb=20240213015211",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/5e/Typhlosion_hisuian_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213015202",
-          "releaseDate": "2026-03-06"
+          "releaseDate": "2026-03-01"
         },
         {
           "dexNum": 211,

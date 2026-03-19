@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-03-01",
-  "count": 287,
-  "shinyCount": 275,
+  "lastUpdate": "2026-03-19",
+  "count": 290,
+  "shinyCount": 277,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -885,6 +885,14 @@
       "hasShiny": true
     },
     {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Baseball jersey",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/06/Pikachu_baseball.png/revision/latest/scale-to-width-down/98?cb=20260228045101",
+      "shinyImageUrl": null,
+      "hasShiny": false
+    },
+    {
       "dexNum": 26,
       "name": "Raichu",
       "form": "Summer hat",
@@ -1234,6 +1242,22 @@
       "form": "Blanche",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a1/Lapras_blanche.png/revision/latest/scale-to-width-down/98?cb=20230413034814",
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/2b/Lapras_blanche_shiny.png/revision/latest/scale-to-width-down/98?cb=20230413034833",
+      "hasShiny": true
+    },
+    {
+      "dexNum": 132,
+      "name": "Ditto",
+      "form": "Cap",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/25/Ditto_cap.png/revision/latest/scale-to-width-down/98?cb=20260228043615",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/70/Ditto_cap_shiny.png/revision/latest/scale-to-width-down/98?cb=20260228043701",
+      "hasShiny": true
+    },
+    {
+      "dexNum": 132,
+      "name": "Ditto",
+      "form": "Hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9d/Ditto_hat.png/revision/latest/scale-to-width-down/98?cb=20260228043649",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d1/Ditto_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20260228043713",
       "hasShiny": true
     },
     {
